@@ -38,8 +38,10 @@ My research interests lie in **Embodied AI**, particularly in **Robotic Manipula
 # 📜 Publication
 
 **2025**
-- **Qiwei Liang**, Boyang Cai, Rongyi He, Hui Li, Tao Teng, Changxin Huang, Runhao Zeng, **Whole-Body Coordination for Dynamic Object Grasping with Legged Manipulators**, (under review, Neurips 2025)
-- Tianxing Chen, Zanxin Chen, Baijun Chen, Zijian Cai, **Qiwei Liang**, ..., Yao Mu, **RoboTwin 2.0: Autonomous Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation**, (under review, Neurips 2025)
+<!-- - **Qiwei Liang**, Boyang Cai, Rongyi He, Hui Li, Tao Teng, Changxin Huang, Runhao Zeng, **Whole-Body Coordination for Dynamic Object Grasping with Legged Manipulators**, (under review, Neurips 2025)
+- Tianxing Chen, Zanxin Chen, Baijun Chen, Zijian Cai, **Qiwei Liang**, ..., Yao Mu, **RoboTwin 2.0: Autonomous Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation**, (under review, Neurips 2025) -->
+- WBC, (under review, Neurips 2025)
+- Digital Twin, (under review, Neurips 2025)
 - Mengkang Hu, Tianxing Chen, Yude Zou, Yuheng Lei, Qiguang Chen, Ming Li, **Qiwei Liang**, Yao Mu, Hongyuan Zhang, Wenqi Shao, Ping Luo, **Text2World: Benchmarking Large Language Models for Symbolic World Model Generation**, (ICLR W 2025), [[paper]](https://openreview.net/pdf?id=dIQNOxuBay)
 
 **2024**
