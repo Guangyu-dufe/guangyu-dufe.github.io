@@ -17,19 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# **Guangyu Wang**
+# 📖 About Me
+<!-- 我正在寻找时空数据挖掘方向的PHD职位 -->
+Hello! I'm Guangyu Wang (王广宇), an undergraduate student majoring in Data Science and Big Data Technology at Dongbei University of Finance and Economics, expected to graduate in July 2026. I am currently conducting research as a student member at the Key Laboratory of Big Data Management Optimization and Decision.
 
-**Contact**: +86-18642641127 | [hulnegy@gmail.com](mailto:hulnegy@gmail.com) | [guangyuwang.com](https://guangyu-dufe.github.io/) | [GitHub](https://github.com/Guangyu-dufe)
+I am passionate about all forms of computer technology. I have compiled Android 6.0 system source code from scratch and maintain a personal NAS server with 80TB of storage capacity.
 
-**Address**: Dalian, Liaoning - 116000, China
 
 # 🎓 Education
 
 **Dongbei University of Finance and Economics** | Dalian, China  
 *Bachelor* | Sep 2022 - Jul 2026  
 - **Major**: Data Science and Big Data Technology
-- **GPA**: 3.51/4.00
-- **Core Courses**: Data Scraping and Data Cleaning (97/100), Mathematical Modeling (97/100), Natural Language Processing (97/100), Machine Learning and Financial Modeling (98/100), Deep Learning (96/100)
+<!-- - **GPA**: 3.51/4.00 -->
+<!-- - **Core Courses**: Data Scraping and Data Cleaning (97/100), Mathematical Modeling (97/100), Natural Language Processing (97/100), Machine Learning and Financial Modeling (98/100), Deep Learning (96/100) -->
 
 # 💼 Experience
 
