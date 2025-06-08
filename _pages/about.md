@@ -19,10 +19,9 @@ redirect_from:
 
 # 📖 About Me
 <!-- 我正在寻找时空数据挖掘方向的PHD职位 -->
-Hello! I'm Guangyu Wang (王广宇), an undergraduate student majoring in Data Science and Big Data Technology at Dongbei University of Finance and Economics, expected to graduate in July 2026. I am currently conducting research as a student member at the Key Laboratory of Big Data Management Optimization and Decision.
+Hello! I'm Guangyu Wang (王广宇) 👋, an undergraduate student majoring in Data Science and Big Data Technology at Dongbei University of Finance and Economics, expected to graduate in July 2026 🎓. I am currently conducting research as a student member at the Key Laboratory of Big Data Management Optimization and Decision, focusing on **spatiotemporal data mining** 🗺️, **graph neural networks** 🕸️, and **multimodal deep learning** 🧠.
 
-I am passionate about all forms of computer technology. I have compiled Android 6.0 system source code from scratch and maintain a personal NAS server with 80TB of storage capacity.
-
+I am passionate about all forms of computer technology 💻✨. I have compiled Android 6.0 system source code from scratch 🤖 and maintain a personal NAS server with 80TB of storage capacity 💾🏠.
 
 # 🎓 Education
 
