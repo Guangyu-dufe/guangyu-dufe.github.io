@@ -31,10 +31,10 @@ I am passionate about all forms of computer technology 💻✨. I have compiled 
 <!-- - **GPA**: 3.51/4.00 -->
 <!-- - **Core Courses**: Data Scraping and Data Cleaning (97/100), Mathematical Modeling (97/100), Natural Language Processing (97/100), Machine Learning and Financial Modeling (98/100), Deep Learning (96/100) -->
 
-# 💼 Experience
+<!-- # 💼 Experience
 
 **Key Laboratory of Big Data Management Optimization and Decision** [[Website]](https://datalab.dufe.edu.cn/) | Dalian, Liaoning, China  
-*Student Member* | Sep 2023 - Jul 2026
+*Student Member* | Sep 2023 - Jul 2026 -->
 
 <!-- **Urban Studies and Computer Science at NYU Shanghai** | Shanghai, China  
 *Research Internship* | April 2025 - Sep 2025 -->
@@ -42,6 +42,10 @@ I am passionate about all forms of computer technology 💻✨. I have compiled 
 # 📜 Publications
 
 **C=Conference, J=Journal, S=In Submission**
+
+**[C.1]** **Guangyu Wang**, et al. (2025). **RoseNet: A Cross-Modal Incongruity Adaptive Graph Learning Network in Multimodal Sentiment Recognition**. Manuscript published in *2025 International Joint Conference on Neural Networks (IJCNN)* (CCF-C).
+
+**[J.1]** Zhirui Tian, Yujie Chen, **Guangyu Wang**. (2025). **Enhancing PV power forecasting accuracy through nonlinear weather correction based on multi-task learning**. *Applied Energy*. [https://doi.org/10.1016/j.apenergy.2025.125525](https://doi.org/10.1016/j.apenergy.2025.125525) (JCR Q1 IF=10.1)
 
 **[S.1]** **Guangyu Wang**, et al. (2024). **TTVSI: A Heterogeneous Mixture of Experts Model for Traffic Speed Prediction**. Manuscript submitted for publication in *Information Fusion* (JCR Q1 IF=14.8).
 
@@ -51,13 +55,11 @@ I am passionate about all forms of computer technology 💻✨. I have compiled 
 
 **[S.4]** **Guangyu Wang**, et al. (2025). **Hyper Neural Networks for Spatio-Temporal Pattern Identity Attachment**. Manuscript submitted for publication in *Neural Networks* (JCR Q1 IF=6.0).
 
-**[C.1]** **Guangyu Wang**, et al. (2025). **RoseNet: A Cross-Modal Incongruity Adaptive Graph Learning Network in Multimodal Sentiment Recognition**. Manuscript published in *2025 International Joint Conference on Neural Networks (IJCNN)* (CCF-C).
-
 **[S.5]** Junshuo Zhang, **Guangyu Wang**, et al. (2023). **UniQ4Cap: Unified Query Representation from Pre-aligned Video and Audio for Multimodal Video Captioning**. Manuscript submitted for publication in *INFORMS Journal on Computing* (UTD-24).
 
-**[J.1]** Zhirui Tian, Yujie Chen, **Guangyu Wang**. (2025). **Enhancing PV power forecasting accuracy through nonlinear weather correction based on multi-task learning**. *Applied Energy*. [https://doi.org/10.1016/j.apenergy.2025.125525](https://doi.org/10.1016/j.apenergy.2025.125525) (JCR Q1 IF=10.1)
 
-# 🚀 Projects
+
+<!-- # 🚀 Projects
 
 ## **Multi-Source Spatiotemporal Analysis with Graph-based Temporal Modeling**
 *Guided: Prof. Bowei Chen, University of Glasgow* | Sep 2023 - July 2024
@@ -69,16 +71,16 @@ I am passionate about all forms of computer technology 💻✨. I have compiled 
 *Guide: Ming Gao, Key Laboratory of Big Data Management Optimization and Decision* | Sep 2024 - July 2025
 - Constructed a large-scale dataset comprising 100K videos with comprehensive video-audio aligned captions
 - Developed an adaptive alignment mechanism based on Expectation-Maximization algorithm to address complex cross-modal interactions
-- Designed a Qformer-based foundational model for multimodal video understanding using modality-agnostic principles
+- Designed a Qformer-based foundational model for multimodal video understanding using modality-agnostic principles -->
 
-# 🛠 Skills
+<!-- # 🛠 Skills
 
 - **Programming Languages**: Currently preparing for IELTS
 - **Web Technologies**: HTML, Vue, Streamlit, JAVA
 - **Database Systems**: SQL, Spark, DASK
 - **Data Science & Machine Learning**: Python, Torch
 - **DevOps & Version Control**: Git
-- **Mathematical & Statistical Tools**: SPSS, R
+- **Mathematical & Statistical Tools**: SPSS, R -->
 
 # 🏆 Honors and Awards
 
@@ -90,7 +92,7 @@ I am passionate about all forms of computer technology 💻✨. I have compiled 
 
 ---
 
-<div id="clustrmaps-container" style="width: 400px; height: 300px; overflow: hidden;">
+<!-- <div id="clustrmaps-container" style="width: 400px; height: 300px; overflow: hidden;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4oBE-t6H8XcmpYkIWQadW_Rz5o4c2gRM6pcJ5AydSy0&cl=ffffff&w=a"></script>
 </div>
-
+ -->
